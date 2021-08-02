@@ -1,4 +1,0 @@
-The current high score is 1
-A new high score is 4 broken on 2021-07-13
-A new high score is 9 broken on 2021-07-15
-A new high score is 10 broken on 2021-07-15
