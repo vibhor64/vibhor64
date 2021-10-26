@@ -1,0 +1,7 @@
+tqdm==4.62.3
+opencv_python==4.5.3.56
+numpy==1.19.5
+torch==1.9.0
+
+
+https://colab.research.google.com/github/lucasresck/deep-learning-and-applications/blob/main/cnn/social_distancing_detection.ipynb#scrollTo=16YfgDNfQeLf
