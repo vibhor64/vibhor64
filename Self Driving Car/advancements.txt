@@ -1,0 +1,5 @@
+1.load neural network in device instead of local storage
+2. better fitness function 
+3. randomising traffic as we proceed
+4. curving the track
+5. ui
