@@ -1,0 +1,1080 @@
+,Title,Post Text,Flair,ID,Score,Total Comments,Post URL
+0,"Daily Discussion Thread for April 14, 2022","**Read [rules](https://www.reddit.com/r/wallstreetbets/wiki/contentguide), follow [Twitter](https://twitter.com/Official_WSB) and [IG](https://www.instagram.com/official_wallstreetbets/), join [Discord](https://discord.gg/wallstreetbets), see [ban bets](https://www.reddit.com/r/wallstreetbets/wiki/banbets)!**",<praw.models.reddit.submission.SubmissionFlair object at 0x000002AA981D38B0>,u3dunn,51,1712,https://www.reddit.com/r/wallstreetbets/comments/u3dunn/daily_discussion_thread_for_april_14_2022/
+1,The Art of the DD: For Beginners,"WSB was full of the best people - simply the greatest people, anyone will tell you that, we used to be the best.  But after an influx of unvetted new users, we've fallen into disrepair.  Due to a recent margin call after a sequence of poor trades, our sub can no longer afford to ban all Canadians or build a wall.  However, fear not - I believe that we can solve this crisis with a little bit of education.  It's time to make this sub great again.  
+
+**Chapter 1:** 
+
+*“What the fuck does ‘justify your trades’ mean?”*
+
+It’s a question that anyone here who posts on /r/investing will sprint back asking in a matter of nanoseconds.  “Why do I have to give reasons?  Why can’t we all just fly by the giant throbbing dick in my pants?”  
+
+When normal people gamble their money, they like to limit the risk involved, and draw a basis for their expectations of potential gain or loss.  Due to this, investors have invented the DD – a versatile tool that both acts as a high-quality plastic upgrade for their wives, and an excellent way to convince others to follow or allow (if they’re an institutional investor) their trades.  
+
+**A Due Diligence is about like a high school book report, but on a stock.** It involves some basic preliminary research – most of which can be done with websites not dissimilar to CliffNotes.  After choosing a stock, you can pretty much go get condensed data from some website that actually bothered to read the SEC filings and calculate the basic TA algorithms.   These are what you will stich and glue together to make your very first DD collage.    
+
+**Chapter 2:**
+
+*“How do I not be retarded?”*
+
+This chapter will be my extremely over-simplified, probably-inadequate answer to that question. 
+First and foremost, I believe that there are four key elements to any good trade, listed here in order of importance (top to bottom) and implied penis length when used to justify your trade (bottom to top): 
+
+* 1.  Climate
+* 2.  Fundamentals
+* 3.  Technicals
+* 4.  Story
+
+**1: Climate (The Obvious Shit)**
+
+Let’s start from the top. 
+First and foremost, you’re going to want to look at the climate that surrounds the stock.  This is crucial for short term trades – if the market is in the middle of a slide, correction, or crash, it’s probably best to wait and get in at a later date.  If the market sector is facing significant challenges (i.e. oil with rapidly expanding production and growing inventory) that are likely to weigh on the sector’s stocks, it’s probably a good time to wait or move sideways.  If all is well and good – or if the market is experiencing a surge – perhaps a more aggressive than usual stance can be taken, due to a theoretically lower risk.
+
+**2: Fundamentals (Aka /r/investing)**
+
+Next, you want to look at the fundamentals of your stock.  Even for the autistic orangutans here in WSB, this is pretty damn easy – but it’s usually missing from DD posts anyways, so let’s break out the crayons.  Yahoo Finance has pretty much all the information you could want under its Statistics and Financials tabs.  Advanced autists can also search for 10-k’s, 10-q’s, 8-k’s, and, well, literally every type of SEC filing, with SEC.gov’s edgar search tool.  Using this data to predict future cash flows, you can come up with a valuation for a company’s stock price.  Or you can just look up analyst estimates and hope for the best.
+
+**How To Use Fundamentals in WSB:**
+
+Fundamentals are not the essence of a good trade – the market is inefficient, irrational, and rarely ever trades shares at a fair market value.  You will rarely, if ever, buy a yacht with gains from fundamental analysis.  **However,** (this is the important part) **a stock’s price will trend towards its ever-changing fair market valuation over time.**  This makes fundamentals very useful as a safety net or a measure of risk for short term trades.  For example, someone who’s betting on a binary event to cause share value to go up is taking on less risk if the fundamentals suggest the price should continue moving upwards over time (whereas if fundamentals suggest the stock is overvalued, the trader will be completely reliant on the outcome of the binary to make a profit).  They’re there, they’re useful, so use them.  
+
+**3: Technicals**
+
+If the climate is appropriate and the fundamentals are comfortable, you’re in the clear to make an investment.  However, we’re not investors here.  Traders operate on a much shorter timeframe, which I could yap on about but I’m sure you’ve all already stopped reading at this point.  
+After using the market climate and fundamental analysis to predict long-term price trends, a trader should investigate the technicals.  Technicals are the key to predicting short term movement.  Where should we start?  If you’re actually still here reading and taking this seriously, and don’t know the basics already, do yourself a favor and go binge-read Investopedia like it’s your favorite type of porn.  Go educate yourself on SMA’s, EMA’s, RSI, Stochastic Oscillators, MACD, Bollinger Bands (use responsibly), candlestick charting and patterns, Fibonacci Retracements, and anything else you can find.  Learn how to calculate them, and what they mean.  Then, find a website or write a program to do the math for you (but again, make sure you know what factors they consider and what they mean, otherwise you’re probably just going to fuck yourself over by using them improperly).  
+
+**How to use Technicals in WSB:**
+
+Is the stock trending up or down?  Is that trend likely to continue?  How strong is the current price?  Is the stock overbought or oversold?  Etc etc.  Technicals are the key to timing your entries and exits.  Using them properly will make you a more successful trader, and referencing them in a DD will make your e-peen bigger when you post to WSB.  
+
+**4: Story (In Brief)**
+
+Finally, we arrive at what’s probably the most inexplicable item – and rightly so – the story.  This gets real self-explanatory real quick: What the hell is making TSLA shoot up every time I sell it?  It’s not the climate – auto makers are getting slaughtered.  It’s sure as hell not the fundamentals – these guys aren’t making a profit, and their future cash flow is difficult to estimate.  Technicals have no bearing here.  But what does?  Elon does, mother(musker?)fucker.  The market is retarded and irrational enough that we can’t put a price on a Horatio-Algers story and some batteries.
+
+**Chapter 3:**  
+
+*”That was long as fuck and I hate you for it”*
+
+Indeed.  
+
+**TL;DR:**
+
+If you’re going to make a DD post, actually do your due diligence. Tell us: 
+
+* About the market sector
+* About the company’s performance
+* About the stock’s performance
+* About the retarded delusions you have of where this company will go in the future
+
+Use resources like: 
+
+* [Yahoo Finance]( https://finance.yahoo.com/quote/WCN/key-statistics?p=WCN) and its many tabs
+* [sec.gov’s Edgar Search]( https://www.sec.gov/edgar/searchedgar/companysearch.html)
+* [StockTA.com]( http://www.stockta.com/)
+* [MarketWatch]( http://www.marketwatch.com/)
+* [SimplyWall.St](https://simplywall.st/) (for those of you who don’t like research)
+* [Investopedia](http://www.investopedia.com/) if you actually want to be a decent investor and know your shit
+* [Pornhub’s vast collection of investor materials](https://www.google.com/search?q=pornhub+cuckold&ie=utf-8&oe=utf-8) (NSFW)
+* Literally anything besides your gut feeling or a shitty meme
+
+Edit: and as per /u/spawrks comment, give us proof of your fucking trade.  
+
+I hope that, with effort, we at WSB can come together once more.  We can revive our legacy - relive the glory days of rainbow dicks and real-life meetups that inevitably ended in massive homosexual orgies.  But we will have to work together to reach that goal.  It's time to make WSB great again.
+",<praw.models.reddit.submission.SubmissionFlair object at 0x000002AA981D3640>,6j6gri,2266,214,https://www.reddit.com/r/wallstreetbets/comments/6j6gri/the_art_of_the_dd_for_beginners/
+2,"Do not fall for this: “Short Squeeze”, new account, tons of awards in minutes. Fucking grills. Please.",,<praw.models.reddit.submission.SubmissionFlair object at 0x000002AA981D3490>,u2w3p3,14549,1291,https://i.redd.it/87w7i66s3ct81.jpg
+3,Elon Musk wants to buy out Twitter for $54.20 per share. $TWTR up 13% pre-market.,"Sources:
+
+[Link to Tweet](https://twitter.com/elonmusk/status/1514564966564651008?s=20&t=yTPdQ4R1evwkZwQmxYlMrw)
+
+[Link to Bloomberg](https://www.bloomberg.com/news/articles/2022-04-14/elon-musk-launches-43-billion-hostile-takeover-of-twitter?cmpid=socialflow-twitter-business&utm_campaign=socialflow-organic&utm_content=business&utm_medium=social&utm_source=twitter)
+
+[Link to full SEC 13D](https://www.bloomberg.com/news/articles/2022-04-14/elon-musk-launches-43-billion-hostile-takeover-of-twitter?cmpid=socialflow-twitter-business&utm_campaign=socialflow-organic&utm_content=business&utm_medium=social&utm_source=twitter)
+
+&#x200B;
+
+**ELON** MUSK SAYS ON APRIL 13, 2022, DELIVERED A LETTER TO **TWITTER** THAT CONTAINED A NON-BINDING PROPOSAL - SEC FILING.
+
+**ELON** MUSK - PROPOSED TO ACQUIRE ALL OF **TWITTER** STOCK NOT OWNED BY THE REPORTING PERSON FOR ALL CASH CONSIDERATION VALUING STOCK AT $54.20 PER SHARE.
+
+&#x200B;
+
+Do note that he also said:
+
+ELON MUSK SAYS HE BELIEVES THAT TWITTER SHOULD BE PRIVATE TO GO THROUGH THE CHANGES THAT NEED TO BE MADE
+
+\*\*\*ELON MUSK, ON TWITTER PROPOSAL, SAYS IF THE OFFER IS NOT ACCEPTED, ""I WOULD NEED TO RECONSIDER MY POSITION AS A SHAREHOLDER"".
+
+$TSLA Tesla is down 1%+ pre-market after news of his offer.",<praw.models.reddit.submission.SubmissionFlair object at 0x000002AA981D3910>,u3e77l,338,177,https://www.reddit.com/r/wallstreetbets/comments/u3e77l/elon_musk_wants_to_buy_out_twitter_for_5420_per/
+4,You can’t time worse than Melvin Capital,,<praw.models.reddit.submission.SubmissionFlair object at 0x000002AA9965B0D0>,u3enqv,236,37,https://i.redd.it/u56bnpfn5ht81.jpg
+5,Ryan Cohen's plan for BBBY and why its going higher.,"BBBY is going higher and is going to turn everything around. This last earnings report was horrendous BUT there are some interesting clues in the earnings call we will get to later. 
+
+Lets start with Ryan's letter to Bed Bath: 
+
+[https://s.wsj.net/public/resources/documents/bbbletter030622.pdf](https://s.wsj.net/public/resources/documents/bbbletter030622.pdf)
+
+Some highlights here. The letter starts out setting the table that management has been garbage with giving returns to shareholders and throws a TON of shade on the CEO. 
+
+&#x200B;
+
+https://preview.redd.it/ai3z1jnsret81.png?width=1123&format=png&auto=webp&s=4d23fbe9f6f5bf65c759131362056f5dc8d3d494
+
+&#x200B;
+
+https://preview.redd.it/gzxqayz2set81.png?width=1122&format=png&auto=webp&s=8cdf5d0bba31a4e45b1fccbbd88b7eaf1cc62719
+
+&#x200B;
+
+https://preview.redd.it/98h42lq9set81.png?width=1117&format=png&auto=webp&s=11bb2cdaa340fc7cf616d16044bddc99cec360b3
+
+TLDR the CEO is only destroying the company. Returns are down in the market and sales are down while other retailers are doing the numbers they were doing before the pandemic, thus making the pandemic not an excuse for not executing. He goes on to point out the lack of insider ownership: 
+
+&#x200B;
+
+https://preview.redd.it/j6lihbftset81.png?width=1123&format=png&auto=webp&s=58aad3fa98775c6101c41ee1bd010720c3946f5f
+
+Now for the juicy stuff: 
+
+&#x200B;
+
+https://preview.redd.it/k1krk194tet81.png?width=1056&format=png&auto=webp&s=38d57db1e13adb77c6a763b14cf73c5c65c372f1
+
+&#x200B;
+
+https://preview.redd.it/z9p6dreptet81.png?width=1081&format=png&auto=webp&s=0ed4464118c709092810edc675a9f694f106cd42
+
+The long of the short here is the market is valuing BBBY so low because the company IS going that direction right now. No insiders are buying, the company has little cash and cannot deploy cash to buy backs and invest in its infrastructure and continue to grow its brands all at the same time. THEY NEED CASH. So how do they get the cash? They sell BABY
+
+How much cash can they raise with BABY though? Here is Ryan's thoughts: 
+
+&#x200B;
+
+https://preview.redd.it/my4juvjguet81.png?width=1127&format=png&auto=webp&s=949c948e64156e84906d0e71df23b046a4a6f08c
+
+Here is what Ryan is saying BABY is worth. Shout out to shark tank for always spamming 5x multiples at everyone when they say their biz is worth 5 million bucks on 20k sales. Going off this logic, if BABY doing sales by 2023 of 1.5 billion then applying the multiple means it could sell for 7.5 Billion.  
+
+You might think this is crazy, why would anyone pay 5x for a business's sales? Well they do it now. MSFT bought ATVI for 68.7 Billion when the 2021 revenues were only 8.8 Billion. That would be a multiple of 7.8. Berkshire Hathaway just bought Alleghany Corp for 11.6 Billion with sales of  about 1 Billion and that would be a 11x multiple. There are other examples but just know 5x is cheap for a big well known name with an established infrastructure and customer base like Bed Bath and Beyond. 
+
+To tie this all together, here is the current value of the company. The great news is that you don't need to bother looking up the share count on unreliable websites and estimates from yahoo finance that differ from market watch that are different from etrade. Here it is from the company itself on their earnings call today:  
+
+
+https://preview.redd.it/j5gsso9gxet81.png?width=1027&format=png&auto=webp&s=b77e23c714fe7e76eff63027a8485940c90685a4
+
+So we KNOW there are only 80 million shares out there. 80 million \* 17.76 (todays close) = 1.420.8 Billion. Funny how the total equals 1.420 just saying when 04/20 is a week away haha. 
+
+BUT if we valued BBBY just on BABY alone, the company would be worth 7.5 billion/80 million shares = 93.75. I have seen a TON of speculation as to why Ryan bought calls that exercise as high as $80/share. Well this gets interesting but its quite clear that if Ryan is right about value and they find a buyer, the share price here is going to over 90 which puts all these calls in the money: 
+
+&#x200B;
+
+https://preview.redd.it/az9azeclyet81.png?width=1507&format=png&auto=webp&s=c9564a036cd937bee734e5d6ff34685583e5f826
+
+I did the math so your smooth brain does not have to. The total amount of options he purchased were 16,701 option contracts with a cost average of 1,785,257. NOTE these expire in Jan of 2023. Ryan does not give a dam about the actual value of these contracts at all. These contracts exist for exercise purposes only and are not going to be sold. 
+
+Ryan has 9.4 million shares right now in BBBY and this represents 9.8% of the outstanding shares according to the letter written back on March 6th. Links under the pictures: 
+
+&#x200B;
+
+[https:\/\/s.wsj.net\/public\/resources\/documents\/bbbletter030622.pdf](https://preview.redd.it/2pbqvoukzet81.png?width=1216&format=png&auto=webp&s=1aa1560c779e328354dc4b356ff3624c2b462e2b)
+
+On pure coincidence this is a very similar level to the GME letter that was sent back in Nov of 2020: 
+
+&#x200B;
+
+[https:\/\/www.sec.gov\/Archives\/edgar\/data\/1326380\/000101359420000821\/rc13da3-111620.pdf](https://preview.redd.it/ad4xi7drzet81.png?width=978&format=png&auto=webp&s=eb71fefb6d69d081d8c6d0228e31a23389a685e3)
+
+As we all know Ryan actually increased his share count recently and back in Dec 15th of 2020 after he already made the 9% stake in GME. 
+
+Now for proof BBBY is listening to Cohen. This part of the letter calls for BBBY to stop commenting on certain things: 
+
+&#x200B;
+
+https://preview.redd.it/e8hd2loj1ft81.png?width=1071&format=png&auto=webp&s=fdaf7bb18332a662e8f10a9b9df4fee44d28a318
+
+&#x200B;
+
+https://preview.redd.it/a5r6thnr1ft81.png?width=1061&format=png&auto=webp&s=55c2876aff197782f6752258d10e938d960df6da
+
+Its obvious that Cohen does not want BBBY to give anything away ever again. Here is the proof from the transcript of this earnings call today: 
+
+&#x200B;
+
+https://preview.redd.it/sdysz0v22ft81.png?width=1019&format=png&auto=webp&s=b592965a3350d1192864cdc2f19dc0c63bfffb6a
+
+&#x200B;
+
+https://preview.redd.it/ah93hky62ft81.png?width=1003&format=png&auto=webp&s=f976fc2ce708d58167a29090b9ece7567435c024
+
+&#x200B;
+
+https://preview.redd.it/yimz24bb2ft81.png?width=1035&format=png&auto=webp&s=bdc38ce5c70285fef6839fdc7456b5003c7c41e3
+
+So its quite obvious that the board and the CEO are 1000% on board with Cohen here on the plans for the future. This being the case, then there is an extremely strong possibility that BABY gets sold and for a very hefty premium at that around 7.5 billion or higher.  
+
+If Ryan is Ryan here, he will be buying even more BBBY in the future. Considering the spacing of a purchase in August of GME and then a purchase in Dec even after GME moved up over 100% from what he bought it at, this could mean Ryan will buy BBBY even if it moves to the upside here probably in the next 3-4 months. But I would not even be shocked if he made the purchase even sooner than this. 
+
+What moves stocks? NEWS. If you have been in this game for more than 1 day, you know NEWS is everything. NEWS will move your stock up 20% or down 20%. The market dgaf about anything except for NEWS. Theres an entire NEWS channel dedicated to the stock market, tickers are over tv programs that have nothing to do with stocks. Pure news will drive everything. 
+
+When the market gets wind there might be a negotiation for BABY or a component of BBBY, this will move the stock, and its going to move hard. The market will have to acknowledge BBBY has an asset generating sales at 1.5 billion with a forward multiple of at least 5x. This company being worth 1.4 Billion is an absolute Joke. Their total liquidity from the earnings call IS their market cap!! 
+
+&#x200B;
+
+[https:\/\/www.fool.com\/earnings\/call-transcripts\/2022\/04\/13\/bed-bath-beyond-bbby-q4-2021-earnings-call-transcr\/](https://preview.redd.it/z6sm4o2x3ft81.png?width=1027&format=png&auto=webp&s=f34d2eb2cb3fd64a5b21a3977e70adcdd3445aa0)
+
+There are endless good news cycles ahead. Insider buying, share re purchase program, Ryan buying even more, BABY being sold. Even when the stock gets over 90, Ryan can literally just exercise his options and gain another 1.7 million shares giving him even more ownership. 
+
+For what it is worth, here is the major ownership levels if you care to dig further into who owns what:  
+
+
+[https:\/\/whalewisdom.com\/stock\/bbby](https://preview.redd.it/awy620gq4ft81.png?width=1899&format=png&auto=webp&s=da7aae952087cd321dc584b251b9a9b5882baa91)
+
+Feel free to correct me about anything you find wrong here. Too exhausted to go into Twitter but lets just end it with this : 
+
+&#x200B;
+
+https://preview.redd.it/zr25y25p5ft81.png?width=645&format=png&auto=webp&s=8d53bba036825cc8bd47afc04af4e252e886da59
+
+Icahn was shorted by Ackman, held and even bought up to 25% of herbalife. Buffet holds forever. This name change is a clear message for everyone to get out of the way and get on board.",<praw.models.reddit.submission.SubmissionFlair object at 0x000002AA9965B160>,u38r30,780,196,https://www.reddit.com/r/wallstreetbets/comments/u38r30/ryan_cohens_plan_for_bbby_and_why_its_going_higher/
+6,Don’t know who has the smoother brain here,,<praw.models.reddit.submission.SubmissionFlair object at 0x000002AA9965B1C0>,u3fpqo,161,74,https://www.reddit.com/gallery/u3fpqo
+7,Tell me I'm not the only one here...,,<praw.models.reddit.submission.SubmissionFlair object at 0x000002AA9965B220>,u2y0g2,3846,244,https://i.redd.it/mxw408n3jct81.jpg
+8,Elon's Twitter,,<praw.models.reddit.submission.SubmissionFlair object at 0x000002AA9965B280>,u3fm70,106,15,https://i.redd.it/zy0rkxohfht81.jpg
+9,Me waiting for stock market to crush!!,,<praw.models.reddit.submission.SubmissionFlair object at 0x000002AA9965B2E0>,u3ciux,161,29,https://v.redd.it/bg9nijjcggt81
+10,As per my technical analysis on the Weekly timeframe of the SP500. The Index can either go Up or Down.,,<praw.models.reddit.submission.SubmissionFlair object at 0x000002AA9965B340>,u339fi,861,104,https://i.redd.it/k47eyol2qdt81.png
+11,"Warren Icahn, best investor of all time",,<praw.models.reddit.submission.SubmissionFlair object at 0x000002AA9965B3A0>,u30f1i,1324,47,https://i.redd.it/nhyp7p2t2dt81.png
+12,Elon has Wolf of Wallstreet Energy🔥😂,,<praw.models.reddit.submission.SubmissionFlair object at 0x000002AA9965B400>,u3ftrj,77,23,https://v.redd.it/2sz35ghmhht81
+13,"""Trust me on this one guys, look at everyone who agrees with my DD. This is an ez 10 bagger.""",,<praw.models.reddit.submission.SubmissionFlair object at 0x000002AA9965B460>,u30haw,1142,72,https://i.redd.it/rkmi024a3dt81.jpg
+14,Sometimes it really do be like that,,<praw.models.reddit.submission.SubmissionFlair object at 0x000002AA9965B4C0>,u361mv,402,43,https://i.redd.it/leo81ntjfet81.jpg
+15,New major announcement from the Federal Reserve,,<praw.models.reddit.submission.SubmissionFlair object at 0x000002AA9965B520>,u39o66,190,44,https://i.redd.it/y5hgddcvfft81.png
+16,Oh so that's what's happening right now,,<praw.models.reddit.submission.SubmissionFlair object at 0x000002AA9965B580>,u2lesd,9000,280,https://v.redd.it/vm1jyqrp89t81
+17,I showed one of my childhood friends how to trade options last year and he texted me this today. Told him he should stop applying for jobs and apply to be a mod here,,<praw.models.reddit.submission.SubmissionFlair object at 0x000002AA9965B5E0>,u2y3t2,872,45,https://i.redd.it/wal45mymjct81.jpg
+18,$HMHC: Next Big Play,,<praw.models.reddit.submission.SubmissionFlair object at 0x000002AA9965B640>,u349uu,320,40,https://i.redd.it/vjtrntz3zdt81.jpg
+19,I know you guys did this.,,<praw.models.reddit.submission.SubmissionFlair object at 0x000002AA9965B6A0>,u3f3gl,38,20,https://i.redd.it/bibktw85aht81.jpg
+20,Weeeeee lets go flying boys,,<praw.models.reddit.submission.SubmissionFlair object at 0x000002AA9965B700>,u38b9l,156,27,https://i.redd.it/vqkpgjwl1ft81.jpg
+21,Elon Musk Makes $43 Billion Unsolicited Bid to Take Twitter Private,,<praw.models.reddit.submission.SubmissionFlair object at 0x000002AA9965B760>,u3g4fh,26,16,https://i.redd.it/45tyy6fijht81.png
+22,This ain’t nothing. Keep moving forward! WE ARE THE NEXT DEGENERATION!,,<praw.models.reddit.submission.SubmissionFlair object at 0x000002AA9965B7C0>,u2qjs6,1680,76,https://v.redd.it/l9avro4tuat81
+23,You can actually pinpoint the second when his heart rips in half.,,<praw.models.reddit.submission.SubmissionFlair object at 0x000002AA9965B820>,u2unyk,874,119,https://www.reddit.com/gallery/u2unyk
+24,To the two sitting in front of me on the plane to SLC,"Some select quotes:
+
+""Yeah my wife lets me borrow X dollars per month to play with""
+
+""I almost made a bunch of money, but I had diamond hands.""
+
+""You don't have to do any research these days man, it's all on forums.""
+
+""All you have to do is time the market.""
+
+You guys are the true retards. Thanks.",<praw.models.reddit.submission.SubmissionFlair object at 0x000002AA9965B880>,u3418r,216,39,https://www.reddit.com/r/wallstreetbets/comments/u3418r/to_the_two_sitting_in_front_of_me_on_the_plane_to/
+25,When you bring your Satan statue to your CNBC interview.,,<praw.models.reddit.submission.SubmissionFlair object at 0x000002AA9965B8E0>,u2xzsz,511,63,https://i.redd.it/279lk2nzict81.jpg
+26,Twitter special free speech operation,,<praw.models.reddit.submission.SubmissionFlair object at 0x000002AA9965B940>,u3fkda,23,7,https://i.redd.it/54eq1e5veht81.jpg
+27,Where’s our stimy checks?,,<praw.models.reddit.submission.SubmissionFlair object at 0x000002AA9965B9A0>,u2ezih,38980,1216,https://i.redd.it/8i1x5k01b7t81.jpg
+28,Retail after CPI and PPI data is released.,,<praw.models.reddit.submission.SubmissionFlair object at 0x000002AA9965BA00>,u2q4ws,1336,41,https://v.redd.it/4taenco4rat81
+29,"update, it is now -70% since yesterday...",,<praw.models.reddit.submission.SubmissionFlair object at 0x000002AA9965BA60>,u3clue,37,8,https://i.redd.it/azkvx58nhgt81.jpg
+30,Financial Genius,,<praw.models.reddit.submission.SubmissionFlair object at 0x000002AA9965BAC0>,u34gnn,169,29,https://i.redd.it/vvuhn91w0et81.jpg
+31,PPI hits 11.2% but they are saying CPI has peaked at 8.5% - what a fucking joke.,"This is a fake market, it is the fakest I have seen in my life.  There is definetly a crash coming and this one is going to make 2008 and 2000 look like a picnic. I have been alive through both and I dont see any other way out for the Fed but to raise rates above inflation, REAL RATES ARE NEGATIVE. And they have to do Quantitative Tightening no matter what effect it has on the market. There is no such thing as a soft landing, and the more they try to pussy around with this the worse inflation will get. Wages have not risen with inflation and the common man is the one that is going to suffer.
+
+Here is what I see in the future.
+
+\- !0 year Treausry yields going above 4% - Yes 4%
+
+\- Gold hitting new all time highs 3000$/oz is not out of the question.
+
+\- All Commodiities doing all time highs including - Oil, ,Wheat, Corn, Soybean, Uranium, Copper....and much more
+
+\- I am also worried that when our own fed is selling treasuries what effect is that going to have on foreign nations that own them.  As inflation has FUCKED their value. IF many nations decide to dump them together.",<praw.models.reddit.submission.SubmissionFlair object at 0x000002AA9965BB20>,u379oh,95,74,https://www.reddit.com/r/wallstreetbets/comments/u379oh/ppi_hits_112_but_they_are_saying_cpi_has_peaked/
+32,This market is stupid in ways I can't even begin to comprehend.,"Seriously, what the actual fuck is happening? Indices are swinging 1-3% every single day now, there's pump and dump scams on nearly every single stock subreddit getting top page and multiple awards, and even news sites and crap like the fool keep pumping up terrible meme stocks with market caps so high they're coming back from the moon.
+
+I understand no one truly knows what they're doing, but real news that directly affects financial institutions and lenders in a market that's built on borrowed money is getting published every single month and without fail stocks that aren't profitable and have a market cap 4-10× their current worth and growth just continue to print.
+
+What the hell are people using to value stocks at this point? Are they just numbers that wax and wane like the tides now?",<praw.models.reddit.submission.SubmissionFlair object at 0x000002AA9965BB80>,u2vuhh,484,258,https://www.reddit.com/r/wallstreetbets/comments/u2vuhh/this_market_is_stupid_in_ways_i_cant_even_begin/
+33,Don't fuck with Elon,,<praw.models.reddit.submission.SubmissionFlair object at 0x000002AA9965BBE0>,u3fiqv,16,3,https://v.redd.it/21bdrisdeht81
+34,The 40 Billion Dollar Offer,,<praw.models.reddit.submission.SubmissionFlair object at 0x000002AA9965BC40>,u3g8nk,12,13,https://i.redd.it/myrksn2ilht81.png
+35,Prices Up 8.5% in March + Fucked PPI + Inflation Inflating = GME SURGING AGAIN (Tomorrow),,<praw.models.reddit.submission.SubmissionFlair object at 0x000002AA9965BCA0>,u31uxl,172,19,https://v.redd.it/lvtt4rb2adt81
+36,"What Are Your Moves Tomorrow, April 14, 2022","**Read [rules](https://www.reddit.com/r/wallstreetbets/wiki/contentguide), follow [Twitter](https://twitter.com/Official_WSB) and [IG](https://www.instagram.com/official_wallstreetbets/), join [Discord](https://discord.gg/wallstreetbets), see [ban bets](https://www.reddit.com/r/wallstreetbets/wiki/banbets)!**",<praw.models.reddit.submission.SubmissionFlair object at 0x000002AA9965BD00>,u2ywy2,238,8555,https://www.reddit.com/r/wallstreetbets/comments/u2ywy2/what_are_your_moves_tomorrow_april_14_2022/
+37,Bearish on Musk buying TWTR? Here's what you can do.,"**TL;DR:** 
+
+**Bearish on Musk Buying Twitter:** Buy TWTR Sep 42 Puts for $4.40/share or less
+
+**Bullish on Musk Buying Twitter:** Sell TWTR Puts for more than Strike Price - $54.20
+
+&#x200B;
+
+In case you haven't already heard, Elon Musk wants to buy twitter. ([SEC Filing](https://www.sec.gov/Archives/edgar/data/0001418091/000110465922045641/tm2212748d1_sc13da.htm))
+
+The offer was stated to be best and final. Whether or not that's actually true is yet to be seen.   
+
+
+Here are the obvious outcomes along with the probability based on yesterday's option open interest:
+
+* Twitter accepts the offer. 
+   * Shareholders are paid $54.20/share. 
+   * Market Estimated Probability 65%
+* Twitter rejects the offer, Musk stays a shareholder. 
+   * Price has a small dip, but is otherwise flat.
+   * Market Estimated Probability 15%
+* Twitter rejects the offer, Musk dumps his shares.
+   * Price falls back to pre-Musk levels.
+   * Market Estimated Probability 20% 
+
+Market is currently pricing in a \~20% chance of scenario 3 happening. I think that probability is higher, especially considering how volatile Musk can be. 
+
+I recognize there may be new option buying to reflect the new probabilities. I can check that after \~5pm NY time and adjust my position on Monday. 
+
+Implied volatility for the April through August strikes are very elevated, which reduce potential risk/reward on the play.
+
+So, I'm looking to buy TWTR Sep 42 Puts for $4.40/share or less as I think there's a better than 20% chance that Twitter rejects Musk's offer and Musk sells his shares.
+
+For those who want to inverse me, you can sell Puts for any strike above $54.20, so that you can collect the premium, and the proceeds from the acquisition price of $54.20",<praw.models.reddit.submission.SubmissionFlair object at 0x000002AA9965BD60>,u3g5u7,11,4,https://www.reddit.com/r/wallstreetbets/comments/u3g5u7/bearish_on_musk_buying_twtr_heres_what_you_can_do/
+38,spotted IRL (AMC to the moon),,<praw.models.reddit.submission.SubmissionFlair object at 0x000002AA9965BDC0>,u36dbf,85,32,https://i.redd.it/jzd9abyoiet81.jpg
+39,Me after buying Roblox shares before It fell,,<praw.models.reddit.submission.SubmissionFlair object at 0x000002AA9965BE20>,u2xr7d,256,48,https://i.redd.it/2zvv11j1hct81.jpg
+40,Elon Musk is sued by shareholders over delay in disclosing Twitter stake,"&#x200B;
+
+https://preview.redd.it/2c5sgvz2v9t81.jpg?width=890&format=pjpg&auto=webp&s=42917dbe4a8cb6769bacc2fe47ee358ffd510614
+
+Which one of you is this?  I almost fell out of my chair when I read this in Reuters this morning.
+
+&#x200B;
+
+[https://www.reuters.com/technology/elon-musk-is-sued-by-shareholders-over-delay-disclosing-twitter-stake-2022-04-12/](https://www.reuters.com/technology/elon-musk-is-sued-by-shareholders-over-delay-disclosing-twitter-stake-2022-04-12/)",<praw.models.reddit.submission.SubmissionFlair object at 0x000002AA9965BE80>,u2n3e4,1214,202,https://www.reddit.com/r/wallstreetbets/comments/u2n3e4/elon_musk_is_sued_by_shareholders_over_delay_in/
+41,"Loop Capital founder states BBBY is a ""sell"", $10 price target and earnings will be (quote) ""Very Very Terrible"".",,<praw.models.reddit.submission.SubmissionFlair object at 0x000002AA9965BEE0>,u2v87r,304,96,https://i.redd.it/b4gjdj8rwbt81.jpg
+42,"JPMorgan Profits Drop 42%, Bank Writes off Russian Assets","# Pre-Markets: JPMorgan (JPM) Hits New 52-Week Low!
+
+The nation's largest bank by assets said it earned a profit of $8.3 billion, or $2.63 per share, down from a profit of $14.3 billion, or $4.50 a share, in the same period a year earlier. The results missed the forecasts of Wall Street analysts, who were looking for JPMorgan to earn $2.72 a share, according to FactSet.
+
+Much of JPMorgan's profit decline came because, the year before, the bank released more than $4 billion in credit reserves tied to the improving economy and waning COVID-19 pandemic. For more than a year, JPMorgan and other banks had been releasing the funds they had socked away to cover potentially bad loans. Those releases had boosted the bank's profits significantly, but investors knew these one-time bumps in profits were temporary.
+
+Now JPMorgan is going in reverse. The bank set aside $1.46 billion to write off its assets tied to Russia as well as assets that have been negatively exposed to persistently higher inflation. The bank said most of the Russian exposure was in its investment banking division as well as its asset management business.
+
+""We remain optimistic on the economy, at least for the short term – consumer and business balance sheets as well as consumer spending remain at healthy levels – but see significant geopolitical and economic challenges ahead due to high inflation, supply chain issues and the war in Ukraine,” said JPMorgan Chase Chairman and CEO Jamie Dimon in a statement.
+
+JPMorgan is the first of Wall Street big banks to report their results for the first quarter. Analysts expect Wall Street will report a modest, but noticeable, hit to its profits as banks individually report their exposure to Russia. JPMorgan had a modest business in Russia. Citigroup, which had both an investment bank and a consumer banking business, will report its results on Thursday.
+
+The volatility in markets the first three months of the year due to Russia's invasion as well as inflation also negatively impacted the bank's trading desks. JPMorgan's corporate and investment bank posted a 26% decline in profits from a year earlier. Investment banking revenue and fees dropped sharply, as companies put deals on hold. Stock and bond trading revenues also declined.
+
+[CLICK TO ENLARGE CHART](https://preview.redd.it/9efrumedfat81.png?width=1467&format=png&auto=webp&s=73b4654ad8917a156d4a1ac5609c848ba1f3629a)",<praw.models.reddit.submission.SubmissionFlair object at 0x000002AA9965BF40>,u2orq3,710,120,https://www.reddit.com/r/wallstreetbets/comments/u2orq3/jpmorgan_profits_drop_42_bank_writes_off_russian/
+43,"Time series of Cathie Wood's relative performance to the NASDAQ. Bottom line, did you all buy into a bubble thinking this lady was a genious? Yes, yes you did.",,<praw.models.reddit.submission.SubmissionFlair object at 0x000002AA9965BFA0>,u2qk0p,496,128,https://i.redd.it/9fytrp3yuat81.png
+44,"$ARQQ, Ultimate Gamma Squeeze with MASSIVE OI and NO VOLUME, inspired by $EVTL!","STOP REMOVING MY POST THIS IS LEGIT DD GAY MODS....
+
+Okay retarded retards, I have found the ultimate gamma squeeze play. I was working yesterday and saw a post about $EVTL after I finished working at 5PM. I saw that shit and realized that it was *the perfect setup for a gamma squeeze.* Then I thought to myself, there has to be more plays like this? **I bring to you $ARQQ. Heavily inspired by** [u/epicolvier3](https://www.reddit.com/u/epicolvier3/) **and his $EVTL play.**
+
+$ARQQ otherwise known as Arqit Quantum Inc is a software company that supplies a unique *quantum* encryption Platform-as-a-Service which... **syke nobody gives a shit about what it does.** Let me just get straight into the details:
+
+*I took it upon myself to build a scanner to find the exact same type of play. Went on ThinkorSwim and added a couple filters and found* ***ONLY ONE TICKER*** *(at least with the existing options as of today, can change in the future,* **I will post more in the future...***) which is $ARQQ.*
+
+**MASSIVE OI**[https://imgur.com/YiVF8YP](https://imgur.com/YiVF8YP)
+
+On the April 14th 2022 15C ([ARQQ220414C00015000](https://finance.yahoo.com/quote/ARQQ220414C00015000?p=ARQQ220414C00015000)) there is over 6000 open interest. Just like $EVTL, the open interest is INSANE. Thats 600,000 shares!!!! If we close above 15$ (which is a joke, keep reading, were already at \~13.5$), there will be 600,000 shares in the money. Market makers will need to purchase all that! This shit expires in 2 days and I am 99.69% certain of a gamma squeeze. Every time you retards buy a call contract MMs will need to hedge to stay delta neutral and buy 100 shares for every contract so the play here is to buy both shares and options. Both of these will drive the price up causing the inevitable gamma squeeze.
+
+**TRADING VOLUME IS LOW AS HELL**[https://imgur.com/a/lyryA4A](https://imgur.com/a/lyryA4A)
+
+The volume on this yesterday was 161k shares (at a price of 13$ each). That is absolutely peanuts. Why is that important? Literally any buying pressure will make the stock skyrocket. Why do you think you retards arent allowed to trade after hours? Because when the volume is low the price is subject to volatility and you will go cry to your mamma after. In this case, it is in OUR FAVOR because this shit is gonna sky rocket during market hours.
+
+Let me convince you some more. WSB made EVTL get a volume of 18million. Up from 40k (lmfao) from the previous day. A volume of even 1/3rd of this amount will send the calls far far far ITM. Thats 6000+ OI ITM in 2 freaking days. The gamma squeeze will be *huge*. ***ARQQ never even saw more than 3-5million in volume and that was at ATH. This could potentially blow past ATHs of 40$.*** *Yeah, I know...* Also, we don't have shares locked up here, but it doesn't freaking matter, the truth is its the volume that is important. If the volume is low, then the order book is thin, which means price will go up very quickly.
+
+IV is still relatively low so the options are priced in very cheap. **MMs won't know whats about to hit them. If they knew, the IV would be much higher, trust me. ;)** MMs will lose, retail will prevail.
+
+**Positions: 1420 ARQQ & 142 4/14 15CPositions: 1420 ARQQ & 142 4/14 15CPositions: 1420 ARQQ & 142 4/14 15C**
+
+There were people saying on EVTL that going further in the money was risky, but let's be honest even the 10calls were ITM. Many of the options did an easy 10x-22x. Insane. And imagine when we get the gamma squeeze. Right now the options are cheap as hell, you can probably throw in a couple hundred dollars but it will end up hurting the MMs much more since they priced them so low. If you want to be safe, you can buy further out in time or just buy shares, but personally, I think the 4/14 15C will have the most liquidity and increase the most (I am estimating anywhere between 10x-20x from open) .
+
+Also, I don't suggest you guys buy puts on this, IV will eat you alive. Either hop on, or move on. Or you can hate like [u/ComputerTE1](https://www.reddit.com/u/ComputerTE1/) and miss out like he does every single time. Remember, if he comments , it is bullish!
+
+THIS IS A GAMMA SQUEEZE, *not* a short squeeze.
+
+**CHART SETUP**
+
+Chart setup is also very beautiful. We are at the yearly support at around \~12.6$ so we aren't buying near resistance or high prices. Buy low sell high. Average buy price on this is 22.15$. Most people are already underwater, I don't expect any selling pressure at all. Could even be an interesting swing play. Forgetting the whole gamma squeeze, this seems like a nice buying opportunity at support, as a pure technical analysis type play.[https://imgur.com/a/MySn72O](https://imgur.com/a/MySn72O)
+
+\---------------
+
+**TLDR: BUY $ARQQ 4/14 15C or shares, get gamma squeeze, get lambo.TLDR: BUY $ARQQ 4/14 15C or shares, get gamma squeeze, get lambo.TLDR: BUY $ARQQ 4/14 15C or shares, get gamma squeeze, get lambo.**
+
+MASSIVE OI on 4/14 15C + LOW VOLUME + good price entry point regardless = recipe for lambo
+
+**$ARQQ. Heavily inspired by** [u/epicoliver3](https://www.reddit.com/u/epicoliver3/) **and his $EVTL play.**
+
+Will post gains later ;)
+
+For the sake of completeness, I will add a drawing for you retards since 420% of you guys are illiterate:
+
+[https://imgur.com/a/qWu8iig](https://imgur.com/a/qWu8iig)",<praw.models.reddit.submission.SubmissionFlair object at 0x000002AA9965D040>,u2r8uu,447,526,https://www.reddit.com/r/wallstreetbets/comments/u2r8uu/arqq_ultimate_gamma_squeeze_with_massive_oi_and/
+45,33k down so far.. should I sign up for Cathie’s Wood Masterclass?,,<praw.models.reddit.submission.SubmissionFlair object at 0x000002AA9965D0A0>,u2tgl1,296,138,https://i.redd.it/o06gi8gsibt81.jpg
+46,AMZN gain $9810 overnight,"[Bought these right before close yesterday](https://imgur.com/a/zu9tkJj).
+
+$10,890 to $20,700 (+$9,810)
+
+I thought the $3,000 psychological support would hold and there was no way bears were gonna be right again after PPI came out. Got a bit spooked on the morning dip, sold right before lunch @ $69. Trying to not go long ROPE because these are currently trading for over $100 a pop, but I'll take the almost $10k gain. Saved my account so I should be able to actually sleep tonight.",<praw.models.reddit.submission.SubmissionFlair object at 0x000002AA9965D100>,u339wi,76,17,https://www.reddit.com/r/wallstreetbets/comments/u339wi/amzn_gain_9810_overnight/
+47,Here I go again 😞,,<praw.models.reddit.submission.SubmissionFlair object at 0x000002AA9965D160>,u30e5v,111,22,https://i.redd.it/p57z8j3n2dt81.jpg
+48,Offical Pet of WSB: Kathie Dead-Cat Wood,,<praw.models.reddit.submission.SubmissionFlair object at 0x000002AA9965D1C0>,u32qjp,74,11,https://i.redd.it/71myma4hldt81.jpg
+49,"Babe wake up, new recession DLC just dropped",,<praw.models.reddit.submission.SubmissionFlair object at 0x000002AA9965D220>,u2azqa,8302,319,https://v.redd.it/u44r0eeua6t81
+50,Mood,,<praw.models.reddit.submission.SubmissionFlair object at 0x000002AA9965D280>,u2ogia,533,24,https://i.redd.it/l5klcf7waat81.png
+51,$TSM Beats Earnings! 🔥,"Taiwan Semiconductor press release (NYSE:TSM): Q1 Non-GAAP EPS of $1.40 beats by $0.09.
+
+Revenue of $17.57B (+36.0% Y/Y) beats by $1.31B.
+
+In the first quarter, revenue increased 12.1% quarterover-quarter, supported by strong HPC and Automotive-related demand.
+
+Time to move away from China fears 🏴‍☠️
+Strong numbers, invest wisely and aggressively! #TSM",<praw.models.reddit.submission.SubmissionFlair object at 0x000002AA9965D2E0>,u3akjg,18,24,https://www.reddit.com/r/wallstreetbets/comments/u3akjg/tsm_beats_earnings/
+52,"Stock Discussion: AMZN held at 3,000 on Wednesday, up 3.15%. At what price did you buy AMZN stock?","The reason I invested in AMZN is simple because I used to be in the clothing import business and AMZN took over our business. So I can only buy their stock.
+
+In April 2020, I bought 100 shares of AMZN at $1900. Holding until November of last year, I sold all AMZN shares at $3,500. The main reason is that Bezos sold AMZN stock.
+
+&#x200B;
+
+To be honest, the market has not been very good recently, and I think many people are worried about whether the stock market will crash again.
+
+In early May, the Fed will raise interest rates again. With a rate hike of 50-75 basis points said, the market could again have unpredictable results.
+
+I'm a conservative person, I wait for the market to drop and buy on dips. Another question was raised, so how much will the market fall, and what price range is better to buy in the future?
+
+I think we can have a good discussion on this issue.",<praw.models.reddit.submission.SubmissionFlair object at 0x000002AA9965D340>,u3ffvw,6,8,https://www.reddit.com/r/wallstreetbets/comments/u3ffvw/stock_discussion_amzn_held_at_3000_on_wednesday/
+53,Twiiter,"If Musk takes it private, and does not need to have it be profitable , but break even.  Does anyone have government oversight, can it be regulated?  also if he just charges user that have a check mark and or a certain number of followers a fee, that is all he may need, plus he can probably cut a lot of the fat out of the admin area",<praw.models.reddit.submission.SubmissionFlair object at 0x000002AA9965D3A0>,u3g8bq,5,6,https://www.reddit.com/r/wallstreetbets/comments/u3g8bq/twiiter/
+54,Me after YOLOing all my savings on meme stocks.,,<praw.models.reddit.submission.SubmissionFlair object at 0x000002AA9965D400>,u38p76,25,12,https://i.redd.it/axganiuk5ft81.jpg
+55,$WEBR to $69.42 a share (not a meme),,<praw.models.reddit.submission.SubmissionFlair object at 0x000002AA9965D460>,u2w5sr,150,111,https://i.redd.it/jwmnml094ct81.jpg
+56,Some Dollar General porn for ya. I'm in it for the long haul.,,<praw.models.reddit.submission.SubmissionFlair object at 0x000002AA9965D4C0>,u34brd,46,14,https://i.redd.it/fi2bkbclzdt81.png
+57,SEC be like...,,<praw.models.reddit.submission.SubmissionFlair object at 0x000002AA9965D520>,u25hg4,33235,288,https://v.redd.it/j7s2ezh925t81
+58,Face Ripper continuation,"Sup nerds, some of you took my calls and made money congrats but to the rest of you gay bears:
+
+Daddy BGC is back and I can see some weapons-grade copium in this sub and on Twitter, I tried to warn you anon but you continued to average down as your puts withered away in those disgusting little ape hands of yours.
+
+But worry not I'm back again to spit some fire for the second time, you thought this run was over? Silly little anon it's only just begun the majority of you bears have diamond-handed your puts and that can only mean one thing: there will be a lot of loss porn this weekend and this easter Jesus isnt the only person that will be coming.
+
+Let's talk about the theta decay and why we are going to see higher before we see lower:
+
+[The average gay bear's portfolio](https://preview.redd.it/brk0fe4q3dt81.png?width=1098&format=png&auto=webp&s=ecda0de29a00dce89c495d463471c34fa681efc6)
+
+As you can see from the professionally drawn graph, as the time to expiry decreases the rate at which the options value decreases increases exponentially, for the retards among us you lose money faster closer to the end of the day.
+
+&#x200B;
+
+[OI and volume for SPY](https://preview.redd.it/omtocu0v4dt81.png?width=1939&format=png&auto=webp&s=60c6698c6ab98340a9b82d6496ae2a05004812cd)
+
+Now today there was an uptick in calls which is good to see but the important thing is that the majority of put positions are still open and it looks like the bears have doubled down as there are 20k new put positions opened at the 434 strike as well increases in the 435 strike. Depending on how we open we could see bears instantly crushed or a slow bleed throughout the day with a price target of 445 and moonboi price targets of 450.
+
+&#x200B;
+
+[Gamma and Delta profile for SPY](https://preview.redd.it/g55tnxusadt81.png?width=1848&format=png&auto=webp&s=ee544a1c7c45dbdbb2c8086d8e50c5c6a192c678)
+
+# Look at that fat purple dildo it's a fuckin beauty eh?
+
+I spit in the face of bears while I take their money, today was a great day for both and it will only keep getting better tomorrow. My predictions are either:
+
+1. We gap up in premarket and gay bears get crushed and capitulate as we spike at open and potentially go sideways/ trend up or down a little.
+2. We open flat or a little down and we see some selling in the morning until a gradual climb back up especially post 1 PM where the theta decay will start to increase dramatically and start to see charm effects ramping up.
+
+# This section is for the retards on my last post saying that market go down because of fancy lines someone drew:
+
+You have to be autistic to believe lines make a difference, Market makers and institutions push the market where they want it and everyone else has to eat that shit sandwich whether we like it or not, MMs are net short and will rehedge as bears sell their puts for losses pushing us higher.
+
+POSITIONS: Bought and sold spy contracts for a decent gain throughout the day but holding now:
+
+30 APR 14 445C and adding more on open again.",<praw.models.reddit.submission.SubmissionFlair object at 0x000002AA9965D580>,u31iw5,60,31,https://www.reddit.com/r/wallstreetbets/comments/u31iw5/face_ripper_continuation/
+59,RobinHood you fucking twats (old account),,<praw.models.reddit.submission.SubmissionFlair object at 0x000002AA9965D5E0>,u32c0z,49,41,https://i.redd.it/x22ouwh4idt81.jpg
+60,"4-13-22 SPY, AMD, Ford, APPLE, and QQQ Daily TA","  
+
+Well the bears got squashed today after their big win the last three days. A turning of the tide? Perhaps… 
+
+With the worse PPI data in history its only natural that the bulls would rally like it’s the roaring 20s again… 
+
+&#x200B;
+
+https://preview.redd.it/zhw0gco3ydt81.png?width=825&format=png&auto=webp&s=0bb99893e214393da1508cf0b3d7d9515131bead
+
+&#x200B;
+
+https://preview.redd.it/er1nkrc4ydt81.png?width=842&format=png&auto=webp&s=662e6b5c948726587f88547f0cba30df32f0f650
+
+Today was actually a massive win for the bulls. They broke the week only downward bear channel we have been trading within. Granted they only closed two candles outside of it before falling back into it after hours… its still a break and that’s a big momentum shift. So where do we head from here? 
+
+&#x200B;
+
+https://preview.redd.it/urb0tm35ydt81.png?width=749&format=png&auto=webp&s=c0c65171a4383a2e16041e3022404f03a5b1c0c7
+
+As you can see our red bear channels broken… lets see if we can find a new trend or not…
+
+&#x200B;
+
+https://preview.redd.it/rki1ivp5ydt81.png?width=748&format=png&auto=webp&s=7bd2ceb0c8f0db13436ecaf7fc574a2fed00cace
+
+Overall this is the new channel we are trading within now. Its not perfect yet but its something to keep our eyes on as time goes on. Right now the big take aways on the daily chart is that we closed back ABOVE the daily 200 ema that is at exactly 440 now. After back to back closes below the daily 200ema a close above it is a bullish shift in momentum for sure. However, bulls failed to breach or even test the daily 50ema at 444.88 or the daily 8ema at 445.17 both of which will now be big resistance back to the upside. If you can see the 8, 20, 50 and 100 EMA are all stacked in about a $1.5 range. All of those will provide hefty resistance for SPY to break through. 
+
+You may be asking what the 4 blue arrows are? Glad you asked…
+
+Current downward trend is presented as follow: Green à red. Red. Red. à green -> red. Red à green à red red red à green à red? Trend break? We will find out tomorrow for sure. 
+
+Today is considered an inside candle day which some actually consider like a doji. What this means is after a big day of movement to a major support (200 ema) followed by an inside candle (a candle fully within the previous days range) this candle can be considered as indecision and can indicate support established and a reversal of trend. So that will be interesting to watch. Some experts also equate it to a continuation of trend too. 
+
+&#x200B;
+
+https://preview.redd.it/r4r36bf6ydt81.png?width=975&format=png&auto=webp&s=f5c2867e858bfbc42f24e0faeee5e1fc644b8cc9
+
+We have quite the candle forming on the weekly also with very bullish tendencies to that for the following week. If bears cant get the close tomorrow back under 440 bulls just might get back into control. But it is noted bulls failed to break the weekly 8ema at 444.71 and weekly 20ema at 446.22 which are both important resistance wise. 
+
+Tomorrow key close levels is the daily 100 ema at 446.4 and the daily 200ema at 440. Which ever way we close will signal whats to come next week. 
+
+Today was also the lowest volume day of the week so far. 
+
+Going into monthly options expiration tomorrow we have the following OI:
+
+430P- 76k (massive drop from I believe 1105k yesterday)
+
+435p 49k
+
+440p 77k
+
+450c 62k 
+
+445 38k
+
+As you can see the most OI still favors the put side tomorrow. However, I highly doubt we see 430 as that would be over -3% red day (which I mean is not technically impossible but VERY improbable)… we are more likely to see a -1 to -2% red day at max (if we are bearish) which would put us right near 435 to 438 which lines up with the 435p and 440p… There is a significant amount of OI at those 450C though and 445C. I wonder if we would see a pop to 445 tomorrow and then sell off into the end of the day and end around the 440 mark. 
+
+Just out of curiosity for the next MOEX the highest current OI is 410P 71k, 420p 83k, 430p 71k, 440p 52k…. 450 26k, 460 32k, 470c 41k, 480c 27k… even looking another month out the market is positioned with a higher bearish conviction than bullish. With those 4 strikes having 277k P to 126k… that’s nearly half the volume of calls to puts which I do find interesting. 
+
+&#x200B;
+
+https://preview.redd.it/t3s9ml37ydt81.png?width=975&format=png&auto=webp&s=caae03fb35e40ce7d87b6e44177c9523ad875915
+
+Apple too saw quite the bullish day actually extending up over its probable IV movement of $3 today and closed ABOVE its improbable IV based move at 170.24. The close of 170.4 is a very key close for Apple. 
+
+Todays volume on apple was the lowest volume since March 17th. Overall low volume day all around it seems. 
+
+The interesting thing about todays movement for Apple is that it hit 171 and saw 5 rejections in a row followed by one more during power hour. That 171 level is a key resistance for apple to break. 
+
+&#x200B;
+
+https://preview.redd.it/7a83ixq7ydt81.png?width=759&format=png&auto=webp&s=e319c55f90f137144612510f5d7b93677c120663
+
+With Apple too breaking its bull channel here is a corrected channel to watch for. 
+
+Apple closed ABOVE its daily 20ema at 170.23 (will look if close gets adjust end of day though) but BELOW its daily 8ema at 170.48. I will be watching tomorrow to see if the 8ema continues to be resistance and if 171 rejects again. If 171 holds firm again I will look for a close near the daily 50 ema at 168.57. 
+
+&#x200B;
+
+https://preview.redd.it/7ec85a98ydt81.png?width=975&format=png&auto=webp&s=a6536fb69f982d3b1953e249887f471e25f9509e
+
+AMD had a strong day today of course because of the upgraded price target on NVDA rallied semis… a little SUS if you ask me that AMD and NVDA both got downgraded last week only for NVDA to get upgraded again… definitely odd. 
+
+Interestingly enough AMD failed to reach 100 day in a seemingly possible target for the day. 
+
+AMD is still well below its daily 8ema of 101.62 with a failure to touch it since March 31st. AMD still holding below its key 100 resistance line now too. I will look for bulls to test that 100 tomorrow or break it down back near 96 to end the week. 
+
+&#x200B;
+
+https://preview.redd.it/9gyfddp8ydt81.png?width=975&format=png&auto=webp&s=e38157a204b956632b698a1e2b2cf5100e80d564
+
+Ford with a fairly uneventful day today with another failed daily 8ema retest. I will be looking for some sort of move here soon from Ford. Upside channel potential to him $16 tomorrow or break back near $15. Earnings coming up in two weeks for Ford will be interesting to see how it shakes out. 
+
+&#x200B;
+
+https://preview.redd.it/8uv62879ydt81.png?width=975&format=png&auto=webp&s=68d8dcb465098b551f8c4f7fb36d1f9d3bfd5bbc
+
+QQQ the only one today to maintain its bear channel but that was mostly due to the wide range that QQQ can trade within. QQQ also with an inside candle today and failure to reach a reasonably attainable daily 8ema at 349.34. 
+
+Tomorrow its important for bears to prevent a close above the daily 8ema and of course important for the bulls to get this close back above the daily 8ema tomorrow and closer to 352 to 355 above the Daily 20 ema (351.46), and daily 50 ema (353.3).
+
+&#x200B;
+
+https://preview.redd.it/lp9tapp9ydt81.png?width=478&format=png&auto=webp&s=76b08aaafc4107a52badba56b1940331f26be44c
+
+Today was a great reminder why no matter how strong my conviction is I don’t like to hold positions over night… 
+
+The 1dte apple put I consider burnt beyond repair. With a true red day I will be able to salvage 50% most likely. I purposefully swung small positions sizes for these knowing this could happen. 
+
+The 16dte apple put does have a chance and will be watching for tomorrow close points to decide if I take the L or let it ride for the week. 
+
+AMD I still hold strong conviction unless we close above 100 tomorrow. 
+
+Ford still strong conviction till daily 8ema gets closed above and $16 is broken. 
+
+SPY 5dte we could see some downside but most likely this one is burnt but I want to see how tomorrow shakes out first. If we get a fairly red day I may get some salvageable recovery there… but depending on tomorrow I may let this one ride.
+
+Again all four of these positions I entered and knew they could and probably would go to zero. When I do swings they are never something or amounts that will cripple me. Of course any loss is not fun but we have to have smart position sizes. 
+
+10% challenge- 
+
+Today was one of those days for me where despite seeing a clear bull trend in front of me I just did not have the conviction to trade the trend today. The VIX was in clear down trend all day today and that very much so was a hint of what was to come but I very much so struggled the conviction to believe in this bull run when I factor in the macro data. With the worst PPI in history, worsening CPI and overall inflation out of control with the war, gas prices, recession fears, etc. etc. I have a hard time believing the bulls could do it today especially after the massive bull run yesterday got yanked hard mid day. 
+
+With that being said I made 4 trades today.
+
+One 0dte call that I tapped out at -15% (again no conviction and that ended VERY green)
+
+One 1dte call for 10% 
+
+One 0dte put for 7% 
+
+One 0dte put for 8%. 
+
+Overall today I made half my daily goal but obviously with factoring in the above loses from my overnight puts I am obviously in the red unfortuatenly for the day. 
+
+Today was one of the days where I traded only about 1/3 of my total buying power which is a rarity for me as I had very little conviction in anything market wise. I will be interested to see what after hours/pre market look like and what tomorrow does with monthly options expiration being that there are so many OI puts left in the 430 to 435 range. We could see a fairly impressive dump tomorrow or those may all get burnt to a crisp and we could hit 450. The possibilities for tomorrow is endless to be honest. 
+
+But today is one of those days where as a trader you have to step back and remember the psychology of trading. If you don’t believe in what you are trading and you don’t believe in the move that’s about to happen you will never trust your position long enough to see profits or will trust it too long and end up losing profits. I felt more comfortable and more calculated holding 2/3 of my buy power till the end of the day then I did with trading just to trade. 
+
+Discipline in trading is 100% crucial.",<praw.models.reddit.submission.SubmissionFlair object at 0x000002AA9965D640>,u346o0,39,57,https://www.reddit.com/r/wallstreetbets/comments/u346o0/41322_spy_amd_ford_apple_and_qqq_daily_ta/
+61,Jimmy Shill is Based.,,<praw.models.reddit.submission.SubmissionFlair object at 0x000002AA9965D6A0>,u36ay1,27,13,https://v.redd.it/16lu06vwhet81
+62,"$ARQQ is below $15, if it stays this way by tomorrow's open, 0dte calls are looking at -100%","It's currently at $14.90 with no movement AH
+
+if it stays this way, whoever wrote that DD claiming gamma squeeze was selling you the calls.
+
+I am seeing more and more pump & dumps like this. There are so many short squeeze subreddits now leaking here.",<praw.models.reddit.submission.SubmissionFlair object at 0x000002AA9965D700>,u35b5k,31,26,https://www.reddit.com/r/wallstreetbets/comments/u35b5k/arqq_is_below_15_if_it_stays_this_way_by/
+63,PSFE ALL IN !!,,<praw.models.reddit.submission.SubmissionFlair object at 0x000002AA9965D760>,u394d0,14,14,https://i.redd.it/2j51w9h0aft81.jpg
+64,Gay bear passing by,,<praw.models.reddit.submission.SubmissionFlair object at 0x000002AA9965D7C0>,u2zoj7,55,2,https://i.imgflip.com/6chizs.jpg
+65,🕵️‍♂️ I SPY - 4/14 Scalpers Delight,"**Last pots:** [**https://www.reddit.com/r/wallstreetbets/comments/u2e7kp/i\_spy\_tsla\_ta\_wednesday\_april\_13\_2022\_scalpers/**](https://www.reddit.com/r/wallstreetbets/comments/u2e7kp/i_spy_tsla_ta_wednesday_april_13_2022_scalpers/)
+
+April 13 Recap
+
+Technology companies led stock gains, with bond traders reducing aggressive bets on Fed rate hikes amid speculation that inflation is nearing a peak. Investors also considered the start of the earnings season in light of geopolitical risks.
+
+The S&P 500 ended a three-day decline, while the tech-heavy Nasdaq 100 outperformed. Another drop in treasury two-year yields, which are more sensitive to upcoming monetary-policy decisions, brought this week's drop to around 15 basis points.
+
+Oil was trading for more than $100 per barrel.
+
+Traders also kept an eye on the latest geopolitical developments, such as Biden's announcement that the United States will expand the size and scope of weapons provided to Ukraine in a new $800 million military aid package. This includes heavy artillery systems and armoured personnel carriers, indicating a more serious commitment than the country has already made, as well as artillery rounds and additional helicopters
+
+# SPY
+
+https://preview.redd.it/cfghuj4ckdt81.png?width=1456&format=png&auto=webp&s=e5b456b69e0f941ca82239933cc83b5a3ed7a093
+
+[15 min.](https://preview.redd.it/29vzeyfdkdt81.png?width=1456&format=png&auto=webp&s=9508af60d6d0101393548995254ac3d836914d2b)
+
+## Wedge - Bullish Bias
+
+* Bullish 🎯: 445.88 - 450.27 ( needs to break 442.42)
+* Lose 433.79 and the pattern is null
+* Still playing out but near resistance IMO
+
+https://preview.redd.it/ofds7n6ikdt81.png?width=1456&format=png&auto=webp&s=234019f7521b36f4f86bb8675fbe1457eed403f0
+
+# TSLA
+
+🐂 nearly hit the half measure!
+
+https://preview.redd.it/7p3jvgqpkdt81.png?width=2360&format=png&auto=webp&s=39f20f22fa2687071139687ae40cabb69e522d1f
+
+# Economic Calendar - April 14, 2022
+
+https://preview.redd.it/qf7kmbjxkdt81.png?width=1456&format=png&auto=webp&s=f3f01be8ee4dd2b0fcd02e1a89c5d2e15f6f583b
+
+>**Don’t forget the market is closed on Friday!**
+
+# SPY - April 14 - Technical Analysis
+
+https://preview.redd.it/wes983n1ldt81.png?width=1360&format=png&auto=webp&s=9354d4d60973b96c4f708ee4886386c370d3a7dc
+
+* Break 444.58 - 445.87 and look for 447.58
+* Break 447.58 and look for 449.14 - 450.62
+* Break 450.62 and look for 452.68
+* Lose 442.58 - 441.71 and look for 440.12
+* Break 440.12 and look for 437.73 - 436.63 - 435.53
+* Break 435.53 and look for 433.86
+
+https://preview.redd.it/thfy0ye3ldt81.png?width=1456&format=png&auto=webp&s=20a606fb406f28afaf8c0e6575722c742f3418a9
+
+# Rectangle Breakout - Exp. 4/18 EOD
+
+* Break 444.22 - 445.00 - 445.81 and look for 🐂 📏 🎯 : 449.21 - 453.32
+* Lose 442.57 and look for 441.00
+* Lose 441.00 and look for 438.60 - 437.06
+* 🐻 📏 🎯 : 432.88 - 428.78
+
+https://preview.redd.it/0qttaq58ldt81.png?width=1456&format=png&auto=webp&s=7498d63b16f449eccae48e561dbe5377699ea69f
+
+* Neutral 440-449. Bullish 450+. Bearish at 439 and below.
+* *Always just follow price action and levels because I can’t tell the future.*
+* Daily RSI - neutral. 65 min RSI - neutral. 15 min. RSI - bullish.
+* 2 min. RSI bearish diversion for what it’s worth.
+
+https://preview.redd.it/m89fyw5aldt81.png?width=1456&format=png&auto=webp&s=c5368472fce3b77c58045e051f4f3062daf27b52
+
+* 65 min. RSI bullish divergence still playing out.
+
+https://preview.redd.it/oal8vb3cldt81.png?width=1456&format=png&auto=webp&s=4b5720aad5a996216703db4095d611e5057febda
+
+* Algo Flow - 1 Day - 439 - Running with it
+
+https://preview.redd.it/jwus0z1eldt81.png?width=1456&format=png&auto=webp&s=d0af84cd38b679826a7110d792654486e1b94544
+
+* Algo Flow - 5 Day -Diversion at 448 ish - Bullish structure
+
+https://preview.redd.it/ouwsxufgldt81.png?width=1456&format=png&auto=webp&s=6bb6c717acfadfd5f3b353b9fdabf7b792c7e1f5
+
+* Netflow - 1 Day - Want to see puts below 0 in the AM. BEarish structure otherwise.
+
+https://preview.redd.it/cxo2re8jldt81.png?width=1456&format=png&auto=webp&s=464f565a727b413a074253389e5a79db63b0916f
+
+* Netflow - 5 Day - Bullish structure in terms of Netflow.
+
+https://preview.redd.it/cfcdtejlldt81.png?width=1456&format=png&auto=webp&s=d0924e52856ecd46e5c82be8bf49065f6aded048
+
+## Positions:
+
+No time to trade today.
+
+https://preview.redd.it/rtrl7zrxldt81.png?width=1456&format=png&auto=webp&s=421d9d534e26f5b23450c6bfd3fc7e8d1bf7dbb8
+
+Thanks for reading,
+
+🌝NightMan",<praw.models.reddit.submission.SubmissionFlair object at 0x000002AA9965D820>,u32rp1,36,13,https://www.reddit.com/r/wallstreetbets/comments/u32rp1/i_spy_414_scalpers_delight/
+66,just bought these before close... have a feeling... 🤞,,<praw.models.reddit.submission.SubmissionFlair object at 0x000002AA9965D880>,u2yukr,62,65,https://i.redd.it/sdjs7rh7qct81.png
+67,TSLA Micro DD; The most condensed and valuable TSLA DD you'll ever need,"($12,000 GAAP earnings per EV sold) \* (20,000,000 EVs sold annually) \* (50 P/E) =
+
+$12T market cap or approximately $12,000/share
+
+Do I expect these numbers to happen? I dunno, doesn't matter what I think.. but you know what's important? The extraordinary potential upside for TSLA. I encourage everyone to use your own numbers. This DD will aim to educate you on identifying what these three numbers could become, and how to keep track of TSLA as an investment
+
+1) GAAP earnings per EV
+
+|Quarter|GAAP EPS|EVs Delivered|GAAP earnings per EV sold|
+|:-|:-|:-|:-|
+|2021 Q1|$0.39|184,800|$2,361|
+|2021Q2|$1.02|201,250|$5,671|
+|2021 Q3|$1.44|241,300|$6,677|
+|2021 Q4|$2.05|308,650|$7,432|
+
+Your homework: How is GAAP earnings per EV going up? and How high will it go? These are not easy questions to answer. You have to dig. Check out ASP, gross margin and operating margin for Tesla, as well as their trends. Understand Economies of Scale and Wright's Law. Look into the innovation that Tesla is attempting in building EVs. Finally, every quarter.. do your math! GAAP earnings per EV = (GAAP EPS \* outstanding shares)/(EVs delivered). Use [ir.tesla.com](https://ir.tesla.com) as your source
+
+2) EVs sold annually
+
+This is the biggest risk to Tesla and most important thing to monitor imo: execution. Their goal is 50% growth in sales YoY. To be bullish, we have to see them hit that goal.
+
+Homework: Do your math to predict sales based on 50% growth YoY, and watch to see if they achieve their goal. They sold 936,000 in 2021, if they grow at 50% YoY, what year will they reach 20M?
+
+3) P/E
+
+Unfortunately, there will always be speculation here. Tesla will likely always try to innovate and find new businesses to grow. They're currently focused on Solar and Energy, FSD and the Tesla Bot in addition to EVs. So long as there's new innovative business opportunities, what P/E value does that justify? Your homework is to make your own speculation here. 25 P/E? 50 P/E? 10 P/E? You decide.
+
+&#x200B;
+
+Lastly, use your own numbers! Decide if this upside is really there, and if you decide that TSLA could continue to grow, then you're now equipped with some nice metrics to follow and help you maintain conviction in your holding.
+
+Happy rollercoaster riding friends 🎢",<praw.models.reddit.submission.SubmissionFlair object at 0x000002AA9965D8E0>,u373vo,14,30,https://www.reddit.com/r/wallstreetbets/comments/u373vo/tsla_micro_dd_the_most_condensed_and_valuable/
+68,"Worried about US Housing Market continuing to appreciate due to low interest loans available elsewhere, I.O.W arbitrage opportunity of Dollar vs other currencies","I'm a new budding hobby economist. Here is a projection I'm making that is very unsettling for my American cohort that doesn't own a home already.
+
+As interest rates in the US rise, the ability of an American consumer to buy a house with a higher mortgage payment goes down.
+
+However, if the dollar doesn't appreciate commensurately against other currencies, then I worry that foreign buyers could take out loans in their home country with lower interest rates, offsetting any weakness in their home currency.
+
+After I just typed this in the post, I realized isn't this an arbitrage opportunity  in a more general way?
+
+The strategy is take a loan out in your home country, buy US dollars, then buy US 2Y treasuries or buy someone's mortgage?
+
+TL;DR How are we protecting American home buyers from foreign low rates, other than dollar strength? Is there any other way?",<praw.models.reddit.submission.SubmissionFlair object at 0x000002AA9965D940>,u3b03i,8,18,https://www.reddit.com/r/wallstreetbets/comments/u3b03i/worried_about_us_housing_market_continuing_to/
+69,MSTR / RIOT / COIN / MARA - Why Isn't This Garbage At Zero Already?,"Found some fantastic setups in these extraordinarily shitty companies. Will keep this short and sweet. Please keep in mind **there are specific entries for these short plays**. Most short setups are uptrends until they break down - which means do not enter before said entry triggers - or you are likely to get assfucked by Theta and his frat bro Delta.
+
+\---
+
+Let's start with my favorite one: $MSTR
+
+[$MSTR 3Y Weekly Chart](https://preview.redd.it/79z4gxiw0dt81.png?width=2235&format=png&auto=webp&s=6af748d2f48b17c16bcc63e28f5eefa1275d6e63)
+
+Red is a bear flag which broke down --> retested. You can see the results - perfect follow through. Nailed this 402 support and decided to form **another** bear flag on top of it. This one is smaller, but better because it has three clear reactions to the lower line. It also has confluence. For you retards, that means things lining up that generate a higher probability of success for the play. In this case, that **402** level lines up right with our entry.
+
+To play this one, you wanna wait for a **weekly** close below 402. From there, I am targeting **273.75 and 160.50.** Seems like a stretch, but if these companies leveraged to the tits in bullshit jpegs really go ass up, it's possible. At least that's what the chart says. For this one I'm looking @ July 250 puts.
+
+Moving on to: $RIOT
+
+[$RIOT 3Y Weekly Chart](https://preview.redd.it/kqu9228k1dt81.png?width=2235&format=png&auto=webp&s=4cc9ac51a13db40ecd9156390fdef9437da1bcac)
+
+Basically the same fucking thing just wedges instead, I don't need to explain that shit. Reason I don't like it as much is because there is less confluence. There is also support just under the breakdown @ 11.98.
+
+For this guy, the breakdown is on a weekly close below **16.00** from there I am targeting 11.98, 7.59. to be conservative. Sure it can go lower, but pigs get slaughtered. So do retards, so do what you want. I'm not your financial advisor. For this one I'm looking at June 10 puts.
+
+Next up is: $COIN
+
+[$COIN 3Y Weekly Chart](https://preview.redd.it/5ohczjb52dt81.png?width=2235&format=png&auto=webp&s=1093669aaa2dd7724ea3fefcef5810c4aeba0ea1)
+
+This is my least favorite for a few reasons:
+
+1. It slopes downwards, this means you get a worse margin of error on the play.
+2. No confluence.
+3. It's not nearly as shitty of a company as the others.
+
+Still, it's playable. For this one, you want a weekly close below 141.70 for entry. Keep in mind this will slope down every single week. From there, I would target 100.00 or so. I'd use June 120 puts to do so.
+
+Last but not the least shitty, we have: $MARA
+
+[$MARA 3Y Weekly Chart](https://preview.redd.it/b9w9urtr2dt81.png?width=2235&format=png&auto=webp&s=d7d24ea8b574a05c3c4971365eb63361df7f2572)
+
+Actually I like this setup the second most. Confluence with the breakdown and 19.25. Subsequently, you want a weekly close under 19.25 to enter this one. From there I would target 14.70 and 6.94. I'd use June 15 puts to do so.
+
+\---
+
+Annnd that's it. I know you fucks can't read, but **I haven't entered positions in any of these yet and am waiting for the entry triggers I posted to do so.** Never underestimate shit companies, they can do crazy things. I mean you had these things at prices 4-5x as high not too long ago.
+
+God only knows how any of this trash made it onto the stock market, but one can only hope it isn't there much longer.",<praw.models.reddit.submission.SubmissionFlair object at 0x000002AA9965D9A0>,u30hde,39,70,https://www.reddit.com/r/wallstreetbets/comments/u30hde/mstr_riot_coin_mara_why_isnt_this_garbage_at_zero/
+70,The most expensive class you'll ever take,,<praw.models.reddit.submission.SubmissionFlair object at 0x000002AA9965DA00>,u2cxec,2030,123,https://i.redd.it/mmhjpfnar6t81.png
+71,How to Push Robinhood Closer to Bankruptcy,"*Disclaimer: I Am Not A Lawyer (IANAL). I am not suggesting you do anything other than consult with an attorney, preferably one that specializes in securities arbitration.*
+
+If you lost money with Robinhood, there is a chance you could get some, or all, of your money back through FINRA arbitration, which can be more expensive for Robinhood than you.
+
+Instead of YOLO'ing your next paycheck on options, think about YOLO'ing it on some lawyers to give RobinHood the hurt.  Thousands of FINRA claims could be crushing.
+
+**Possible Causes for Action**
+
+Remember when Robinhood gave you free stock for opening an account? Did you get free stock for inviting a friend? Did you buy more of that stock because Robinhood gave you some? Did you subsequently lose money on that stock? If so, that might be construed as Robinhood recommending an investment that wasn’t suitable for you as an investor.
+
+Did you try to buy a stock and had cash to do so (not a margin trade), but Robinhood wouldn’t let you? Did the stock go up after you would have bought it? Did you own a stock that Robinhood only allowed people to sell but not buy? Did the stock go down after the restriction? Robinhood might have failed to properly accept and execute orders.
+
+Did Robinhood approve you for trading options or margins, only for you to lose money and realize you were over your head? Robinhood might have failed to exercise due diligence before approving your account for options or margins trading.
+
+Was Robinhood clear about potential losses on options, or clear about margin calls? Robinhood might have negligently communicated false or misleading information.
+
+**FINRA Arbitration Ground Rules (AFAIK)**
+
+Robinhood CANNOT consolidate FINRA cases into class action (rule 12204). Each claim must be resolved individually. With millions of customers and potentially hundreds of thousands of claims, that’s a lot of billable hours.
+
+Generally, arbitration must occur at the location closest to the customer’s residence (rule 12213). Virtual arbitration can occur only with the consent of all parties. If you don’t consent, Robinhood will either need to hire a lot of local attorneys (meaning it can’t internalize the cost to its corporate legal team) or rack up a lot of frequent flyer miles.
+
+The time limit on claims is six years (rule 12206). You can wait until the total amount of claims is worth the fees you would spend.
+
+**TL;DR**
+
+I am not a lawyer, but if you consult one, there’s a chance you can get some of your money back and hurt Robinhood in the process.
+
+For more information, see:
+
+[https://www.finra.org/investors/insights/securities-arbitration](https://www.finra.org/investors/insights/securities-arbitration)
+
+[https://www.finra.org/sites/default/files/Investors\_Guide\_to\_Securities\_Industry\_Disputes\_0.pdf](https://www.finra.org/sites/default/files/Investors_Guide_to_Securities_Industry_Disputes_0.pdf)
+
+[https://www.martindale.com/](https://www.martindale.com/) (one of many sites for finding an attorney that specializes in securities)",<praw.models.reddit.submission.SubmissionFlair object at 0x000002AA9965DA60>,u37a5x,13,21,https://www.reddit.com/r/wallstreetbets/comments/u37a5x/how_to_push_robinhood_closer_to_bankruptcy/
+72,bulls in 2022,,<praw.models.reddit.submission.SubmissionFlair object at 0x000002AA9965DAC0>,u2pod5,158,17,https://i.redd.it/k5mqge8zmat81.jpg
+73,"which platforms do you use for trading stocks, analyzing stocks or trading coins","Hey, which platforms, websites and other tools do you use for trading? Thank you for the help and tips. I started investing on revolut and changed to interactive brokers.",<praw.models.reddit.submission.SubmissionFlair object at 0x000002AA9965DB20>,u38yy6,8,24,https://www.reddit.com/r/wallstreetbets/comments/u38yy6/which_platforms_do_you_use_for_trading_stocks/
+74,K&S increases forecast on strong fertilizer prices,"Expecting continued strong prices for potash K & S has hiked their earnings to 2.3-2.6 billion euros; up from their previous forecast of 1.6-1.9 billion euros. 
+
+https://www.kpluss.com/en-us/investor-relations/publications/announcements/release-of-insider-information-according-to-section-17-mar/ks-aktiengesellschaft-raises-ebitda-outlook-for-the-2022-financial-year-to-eur-2.3-to-2.6-billion/
+
+The K&S announcement further confirms the driving forces, as discussed by Mosaics VP, will continue to impact prices. This is interesting to see as it indicates price disruptions due to sanctions against both Russia and Belarus are expected to continue. 
+
+
+https://www.mosaicco.com/Article/What-Is-Driving-Fertilizer-Prices
+
+
+The outlook is reflected across the industry with Nutrien increasing production by 1 million tonnes and Verde Agritech expanding capacity to 3 million tonnes in 2022.
+
+https://www.nutrien.com/investors/news-releases/2022-nutrien-increasing-potash-production-response-global-supply
+
+https://investor.verde.ag/verde-to-reach-3-million-tonnes-potash-production-capacity-in-2022/",<praw.models.reddit.submission.SubmissionFlair object at 0x000002AA9965DB80>,u34q1z,18,4,https://www.reddit.com/r/wallstreetbets/comments/u34q1z/ks_increases_forecast_on_strong_fertilizer_prices/
+75,Dension Mines,"You won't know me from my previous Uranium DD because gay mods fucked up the DD flair.
+
+[https://www.reddit.com/r/wallstreetbets/comments/u1x2lq/uranium\_neuron\_firing\_edition/](https://www.reddit.com/r/wallstreetbets/comments/u1x2lq/uranium_neuron_firing_edition/)
+
+So I'm back here with DD on Denison Mines and some thoughts on uranium miners in general.
+
+**Lower prices should come**
+
+I'm here to shill my YouTube channel not pump stocks so I'll be honest. We should see lower prices in many of the miners soon.
+
+https://preview.redd.it/7h01br4fret81.png?width=1262&format=png&auto=webp&s=29b4014b58b383766ee2192262e2132829b08e5e
+
+We completed a major wave 1 from 2020 to 2021. Major wave 2 correction for a very nice 0.5 fib from Nov last year to Jan this year. So we are currently in the midst of the first wave of major wave 3.
+
+I believe we are currently in minor wave 5 of wave 1 of major wave 3. Mean we are due for a wave 2 correction soon.
+
+Uranium ETFs are sitting right at 70 RSI, Cameco the sector bellwether is also at RSI, signaling entry into oversold range.
+
+With Denison Mines, I see RSI still has a big of space to run and MACD is just turning green, leading me to believe that we will quickly run up to 2+ once we clear the current resistance.
+
+My trade is to exit at $2 because I don't want to be stuck in the wave 2 that is coming. I'll buy back some time in wave 2, currently target 1.5 before starting to scale in.
+
+Disclaimer, I still have a lot to learn in TA, most of my information I get taking reference from [https://twitter.com/UraniumCharts](https://twitter.com/UraniumCharts), [https://twitter.com/EastWest\_Advice](https://twitter.com/EastWest_Advice) and My TA guy IRL.
+
+**But you said miners were shit!**
+
+And I still stand by my words. Inflation, rising rates, bad debt and rising rates are all very real concerns for many of the miners out there.
+
+BUT
+
+Denison Mines managed to give some insight into how they will face this, which gives me a great deal of confidence knowing that they have a plan.
+
+[https://www.youtube.com/watch?v=UAhHcjeIIlg&feature=youtu.be&ab\_channel=BloorStreetCapital](https://www.youtube.com/watch?v=UAhHcjeIIlg&feature=youtu.be&ab_channel=BloorStreetCapital)
+
+This interview dated 31 March gives a lot of insight into their plan going ahead.
+
+The video spends a big amount of time talking about their BIG DICK HIGH FLOW In Situ Recovery mining method but that's old info if you had read their investor presentations.
+
+It's the discussion on balance sheet, whether they will sell the 2.5m pounds of uranium they are holding as well as whether they have been using their ATM offering that spur me into writing this DD.
+
+A big part of their strategy in dealing with CAPEX for the flagship Phoneix project is their purchase of 2.5m pounds of uranium at $30/pound.
+
+In the video, they mentioned that the 2.5mil pound is worth about 2/3 third of CAPEX needed as of the video. They don't intend to sell it just yet and can use it as a negotiating leverage against utilities for financing.
+
+Instead of asking for financing from the traditional banks, they can now go to desperate utilities and get the financing they need with better conditions while the utilities get to de-risk by having access to some ready to go uranium.
+
+They also mentioned that the ATM offering hasn't been used much and it's completely optional for them to use, which is reassuring.
+
+I'm not going to trust their words 100% but getting an update on their financials straight from the CEO takes away a big part of my worries.
+
+**Why I like Denison Mines**
+
+Information from their March 2022 investors presentation.
+
+https://preview.redd.it/vqeeatogret81.png?width=1477&format=png&auto=webp&s=52732017deffce224b44eee5686ad9fffa1f6cb0
+
+Numbers are dated 2018 so do account for inflation but their ""high case"" uranium prices are $65/lb which we already are at LMAO.
+
+https://preview.redd.it/qi3jc9vhret81.png?width=1229&format=png&auto=webp&s=23b501eb803667382eb0ac201611a3f58b4b1e9a
+
+One of the lowest all in costs of ALL the projects out there.
+
+**In Situ Recovery Mining**
+
+Basically, instead of traditional mining they drill holes into the ground, pump some mining solution into it and pump out the mining solution after it dissolves uranium in the mine.
+
+Saves a lot of money but the risk is that it is a new mining method.
+
+Below is what they have done to de-risk the method.
+
+https://preview.redd.it/azba14qiret81.png?width=1275&format=png&auto=webp&s=dc56bd7eafbb60de68ff347bb440ecf84abb2ae3
+
+In 2021, they managed to reach commercial scale flow-rate and based hit a lot of the targets they were aiming for.
+
+I won't lie, I'm no mining expert so I don't really know what they are doing very well but I'm sold from the investor presentations.
+
+Anyone with a better understanding do let me know in the comments.
+
+**Phoenix project**
+
+They were aiming for 2024 production but Covid hit and caused some delays so they haven't given an updated timeline.
+
+6m pounds of production per year.
+
+Roughly $50/pound profit right now, which comes down to 300m of free cash flow at current prices.
+
+Even with a shitty 10 P/E, you're looking at 3B market cap once they hit production in maybe 2024.
+
+That's an ultra-conservative estimate already.
+
+Target uranium price X 6m X P/E ratio and you can get your valuation for the free cash flow they will generate with those parameters.
+
+Then you give it a discount rate to find out what you are willing to pay for it right now.
+
+Long story short, I think uranium prices will go higher and I'm happy with the current prices.
+
+**Other projects**
+
+They have other projects avaliable, own 22.5% stake in a uranium mill, a lot of exploration land.
+
+But I don't care.
+
+My valuation is simply ""Phoenix Project"" and ""Bonus Stuff"".
+
+Their priority is on getting Phoenix up and running then they have the money to start other mines.
+
+**TLDR**
+
+Solid fundamentals even if valued very conservatively. Short term top is coming, look to buy in again when it dips.
+
+**Positions**
+
+25k shares, selling at $2-$2.1, will scale back in starting $1.5
+
+Honestly, nothing much has changed since November last year. Inflation risk got higher, liquidity crunch risk got higher, so of course valuation are dampened and I'll be putting less money into this.
+
+Looking at 50-75% of my exit value. Rest goes to U.UN
+
+Edit: I want to clarify that I'm not saying buy right now, better risk to reward would be to wait for wave 2 retracement but I bet people are gonna pile in right now and call me a pump and dumper.",<praw.models.reddit.submission.SubmissionFlair object at 0x000002AA9965DBE0>,u37bgs,10,11,https://www.reddit.com/r/wallstreetbets/comments/u37bgs/dension_mines/
+76,The Latest Retail Grift on Twitter $TWTR,,<praw.models.reddit.submission.SubmissionFlair object at 0x000002AA9965DC40>,u2qdf6,125,68,https://i.redd.it/1jzrx9k9tat81.jpg
+77,Good Friday aka 4/15/2022,Don't forget markets are closed this Friday for good Friday. Cash in them option chips early if need be.. Have a good weekend!,<praw.models.reddit.submission.SubmissionFlair object at 0x000002AA9965DCA0>,u2whhr,51,4,https://www.reddit.com/r/wallstreetbets/comments/u2whhr/good_friday_aka_4152022/
+78,Global Central bank rate hikes: 50 basis points at a time is the new normal?,"After New Zealand and Canada raised interest rates by 50 basis points, the focus was on when the Fed would turn.
+
+&#x200B;
+
+More than 30 emerging market central banks have raised rates by at least 50 basis points in a single move this year, with Pakistan this month raising rates by 250 basis points, followed by crisis-plagued Sri Lanka by 700 basis points.
+
+&#x200B;
+
+As the inflation storm intensifies, the current trend of 50 point rate hikes is emerging in developed markets.
+
+&#x200B;
+
+On Wednesday, New Zealand became the first developed country to raise interest rates by 50 basis points, followed by Canada. The focus now is, when is it the Fed's turn?",<praw.models.reddit.submission.SubmissionFlair object at 0x000002AA9965DD00>,u37wft,8,20,https://www.reddit.com/r/wallstreetbets/comments/u37wft/global_central_bank_rate_hikes_50_basis_points_at/
+79,"Daily Discussion Thread for April 13, 2022","**Read [rules](https://www.reddit.com/r/wallstreetbets/wiki/contentguide), follow [Twitter](https://twitter.com/Official_WSB) and [IG](https://www.instagram.com/official_wallstreetbets/), join [Discord](https://discord.gg/wallstreetbets), see [ban bets](https://www.reddit.com/r/wallstreetbets/wiki/banbets)!**",<praw.models.reddit.submission.SubmissionFlair object at 0x000002AA9965DD60>,u2mtev,229,11684,https://www.reddit.com/r/wallstreetbets/comments/u2mtev/daily_discussion_thread_for_april_13_2022/
+80,Me when my TSLA tendies come in,,<praw.models.reddit.submission.SubmissionFlair object at 0x000002AA9965DDC0>,u2g53j,888,118,https://v.redd.it/3h9j6niil7t81
+81,Mama Cathie says ARKK will $450 in 5 years,,<praw.models.reddit.submission.SubmissionFlair object at 0x000002AA9965DE20>,u2c4n1,1537,544,https://i.redd.it/ysauvbs6l6t81.jpg
+82,BBAI - a hybrid bear that is actually a BULL - a technical analysis view,"Alright degenerates, here is a very sexy chart to look at. This is the only BEAR that camps and feeds at the back of Wendys. Chart looking so good that  this bear is ready to grow horns!
+
+&#x200B;
+
+https://preview.redd.it/a37o3bhi9bt81.png?width=3161&format=png&auto=webp&s=20f4e49f111d466937e827a8ae1e46fc0b18be63
+
+We are currently up around 6% on a very measly volume and is about to breakout on a technical level, this can go parabolic on additional volume obviously. Saw this play when two degens posted their DDs on this lovely thing, this one [here](https://www.reddit.com/r/wallstreetbets/comments/u26s1o/bigbearai_15billion_mkt_cap_loaded_option_chain/) and another one [here](https://www.reddit.com/r/wallstreetbets/comments/u20nvc/bbai_big_bear_or_big_bull/) ... What do you guys think? Go with shares or options on this thing?",<praw.models.reddit.submission.SubmissionFlair object at 0x000002AA9965DE80>,u2sgrb,74,41,https://www.reddit.com/r/wallstreetbets/comments/u2sgrb/bbai_a_hybrid_bear_that_is_actually_a_bull_a/
+83,does anyone else feel like pltr is a no-brainer hold?,"I feel like under $15 is a solid price. I like how very few companies even operate in the same space as PLTR, how they're turning a profit, and how they have little to no debt.
+
+Also, the big factor I like is how so many people scoff at it like it's a turd on an old shoe.
+
+I remember people scoffing at TSLA back in 2013, or people scoffing at Apple over the past 15 years. 
+
+I just feel like the cocktail of mass of ignorance, negative sentiment, and a profitable growth company can turn into a massive home run stock. 
+
+My secret dream is to acquire as much pltr as possible, see it go up to $500 a share, and then just sell OTM weeklies that never hit and collect a pay check lol. But that kind of move probably won't ever happen.",<praw.models.reddit.submission.SubmissionFlair object at 0x000002AA9965DEE0>,u32q4k,21,76,https://www.reddit.com/r/wallstreetbets/comments/u32q4k/does_anyone_else_feel_like_pltr_is_a_nobrainer/
+84,Tendies mooning!,,<praw.models.reddit.submission.SubmissionFlair object at 0x000002AA9965DF40>,u22upi,5611,453,https://i.redd.it/wulwvnj1i4t81.jpg
+85,"The man giveth, the man take away.",,<praw.models.reddit.submission.SubmissionFlair object at 0x000002AA9965DFA0>,u2p3ei,118,6,https://i.redd.it/ii3d8op4hat81.jpg
+86,"Knees weak, bags are heavy, down 94% already. $COIN",,<praw.models.reddit.submission.SubmissionFlair object at 0x000002AA9965E040>,u2eb4r,948,304,https://i.redd.it/bfy0pnlv47t81.png
+87,Great news guys. Stonks go up 🚀,,<praw.models.reddit.submission.SubmissionFlair object at 0x000002AA9965E0A0>,u21dc7,5619,291,https://i.redd.it/ai1syumh64t81.jpg
+88,Giving some of my gains to the man. Tax loss porn -22k from about 75k shot term gain.,,<praw.models.reddit.submission.SubmissionFlair object at 0x000002AA9965E100>,u2zlzt,20,12,https://i.redd.it/lu7fy19tvct81.png
+89,There goes my retirement account…. Enjoy my pain fellow apes.,,<praw.models.reddit.submission.SubmissionFlair object at 0x000002AA9965E160>,u29p1o,1539,454,https://i.redd.it/owgknwfiz5t81.jpg
+90,The Most Expensive Short in America - BigBearAI,"This ticker (BBAI) has seen a bit of attention over the past week or so, but I wanted to provide some insight into what's going on. 
+
+If you want to learn more about why this ticker is in the position that it is right now, check out this DD from yesterday that covers some of the basics: 
+
+[https://www.reddit.com/r/wallstreetbets/comments/u20nvc/bbai\_big\_bear\_or\_big\_bull/](https://www.reddit.com/r/wallstreetbets/comments/u20nvc/bbai_big_bear_or_big_bull/)
+
+&#x200B;
+
+Right now, it's being heavily shorted, to the point that daily net option delta volume is DEEPLY negative everyday, yet the price continues to appreciate. On it's face, this doesn't make sense. With delta volume being so negative, almost always price is suppressed and driven down.
+
+&#x200B;
+
+&#x200B;
+
+[Yesterday \(4\/\`13\) net delta volume](https://preview.redd.it/hmv7ezzylht81.jpg?width=1601&format=pjpg&auto=webp&s=1472abe98b779afad0c083f5a8189d7024ea56d8)
+
+&#x200B;
+
+[Net delta volume over past few weeks ](https://preview.redd.it/wgrtjjx2mht81.jpg?width=1597&format=pjpg&auto=webp&s=43b3fc480d082db5b87e0ac6f6a9904af0036278)
+
+Yet despite this, price has continued to climb and basically consolidate in a tight channel since April 6th
+
+https://preview.redd.it/lcj1cso8mht81.jpg?width=1448&format=pjpg&auto=webp&s=1bcddc402dc2c79007aaed389abd28847b3e48c8
+
+So the question is: despite heavy shorting, being the most expensive stock to short at a whopping 800% CTB, AND folks thinking they're geniuses for doing lots of STO (almost assuredly a good chunk being naked), what's the \*implication\* of all of this with price INCREASING?
+
+&#x200B;
+
+https://preview.redd.it/37a5xh8jmht81.jpg?width=1323&format=pjpg&auto=webp&s=76c8bbe29b7cbf2e86b19f900c0e9d8bb749747e
+
+&#x200B;
+
+tl;dr - BigBearAI has a great set up for longs, today (Thursday) could get spicey is we approach $15 as that's def the line in the sand for MMs to defend given the MASSIVE OI that's built up there.
+
+&#x200B;
+
+I have May 12.5c and 15c and a handful of April 15c that I'm willing to let get to zero for the huge potential upside today.",<praw.models.reddit.submission.SubmissionFlair object at 0x000002AA9965E1C0>,u3gf99,1,0,https://www.reddit.com/r/wallstreetbets/comments/u3gf99/the_most_expensive_short_in_america_bigbearai/
+91,Hopefully it’s just transitory,,<praw.models.reddit.submission.SubmissionFlair object at 0x000002AA9965E220>,u2dqad,853,30,https://i.redd.it/qcjzu9blz6t81.gif
+92,looks like NASDAQ soon.,,<praw.models.reddit.submission.SubmissionFlair object at 0x000002AA9965E280>,u2bvj8,1039,91,https://i.redd.it/4gcv6vdoi6t81.gif
+93,Valneva announces temporary trading suspension,"[https://www.reuters.com/world/uk/britain-gets-sixth-covid-shot-after-valneva-approval-2022-04-14/](https://www.reuters.com/world/uk/britain-gets-sixth-covid-shot-after-valneva-approval-2022-04-14/)
+
+Shortly after the approval of Valneva's Corvid 19 Vaccine, the company made the decision to temporarily suspend stock trading until a new press release.
+
+&#x200B;
+
+Any suggestions why?",<praw.models.reddit.submission.SubmissionFlair object at 0x000002AA9965E2E0>,u3cd1q,2,5,https://www.reddit.com/r/wallstreetbets/comments/u3cd1q/valneva_announces_temporary_trading_suspension/
+94,Height of desperation.,,<praw.models.reddit.submission.SubmissionFlair object at 0x000002AA9965E340>,u2g9hn,489,155,https://i.redd.it/oh5tupbom7t81.jpg
+95,Some catalysts for us Palantards!,"https://aws.amazon.com/blogs/apn/scalable-and-rapid-erp-analytics-with-palantir-hyperauto-on-aws/
+
+Scalable and Rapid ERP Analytics with Palantir HyperAuto on AWS
+
+In this post, we explored how Palantir HyperAuto—powered by Foundry on AWS which provides a highly scalable architecture—can rapidly integrate data from ERP systems and operationalize that existing data against pressing business problems
+
+Because HyperAuto integrates data in a software-defined way, it removes the technical barrier to entry of traditional data analytics, empowering business users, IT, and operators to work from a collaborative source-of-truth.
+
+Most importantly, it enables enterprises to improve their operations in hours or days, not months and years.",<praw.models.reddit.submission.SubmissionFlair object at 0x000002AA9965E3A0>,u38t0q,4,13,https://www.reddit.com/r/wallstreetbets/comments/u38t0q/some_catalysts_for_us_palantards/
+96,My interpretation of tonight's price action in the Nasdaq,,<praw.models.reddit.submission.SubmissionFlair object at 0x000002AA9965E400>,u2he7l,374,40,https://i.redd.it/8jalw0hox7t81.png
+97,Throwback from when President JFK spoke at our headquarters,,<praw.models.reddit.submission.SubmissionFlair object at 0x000002AA9965E460>,u1uvfh,28003,328,https://i.redd.it/kbzdfsm0g2t81.jpg
+98,Inflation has reached 8.5%,The announcement just came in that inflation in the US has reached 8.5%. This is still at a 40 year high for inflation. In March inflation surged another 0.3% causing higher prices on goods all around the US,<praw.models.reddit.submission.SubmissionFlair object at 0x000002AA9965E4C0>,u1y33v,6923,1767,https://www.reddit.com/r/wallstreetbets/comments/u1y33v/inflation_has_reached_85/
+99,Bet on War $GD $PPA,"With the war in Ukraine not ending anytime soon and most NATO nations raising their defense budget overnight (UK over the weekend said they will provide 120 Infantry Fighting Vehicles to the Ukrainians) betting on defense makes the most sense. The only time historically when defense underperforms the market is when military conflicts are wrapping up , example gulf war. Going long on $GD as they were recently awarded over 2 billion to build an operations center in Europe and $PPA is an ETF that tracks most of the defense companies in this sector. 
+
+Positions are here !
+
+  https://imgur.com/a/jUphH5t
+
+$PPA May 20th 82 83 strike
+$GD April 29th  260 275 strike",<praw.models.reddit.submission.SubmissionFlair object at 0x000002AA9965E520>,u386mf,6,5,https://www.reddit.com/r/wallstreetbets/comments/u386mf/bet_on_war_gd_ppa/
