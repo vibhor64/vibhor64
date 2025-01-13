@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @vibhor64
 - 👀 I’m interested in any topic remotely associated to computer science!
 - 🌱 I’m currently learning Gen AI solutions and delivering them to customers
+- 💼 I have work experience of 1.6 years at Amazon and Dell
 - 💞️ I’m looking to collaborate on any huge project from software to game development
 - 📫 How to reach me:  https://www.linkedin.com/in/vibhor-sharma64/
