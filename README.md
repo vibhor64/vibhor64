@@ -1,10 +1,5 @@
 - 👋 Hi, I’m @vibhor64
-- 👀 I’m interested in simulation of human intelligence in machines
-- 🌱 I’m currently learning Artificial Intelligence And Machine Learning
+- 👀 I’m interested in any topic remotely associated to computer science!
+- 🌱 I’m currently learning Gen AI solutions and delivering them to customers
 - 💞️ I’m looking to collaborate on any huge project from software to game development
 - 📫 How to reach me:  https://www.linkedin.com/in/vibhor-sharma64/
-
-<!---
-vibhor64/vibhor64 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
